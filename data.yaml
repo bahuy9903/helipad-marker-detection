@@ -1,0 +1,7 @@
+path: D:/AI_CDT/helipad-marker-detection/datasets
+train: images/train
+val: images/val
+test:
+
+names:
+  0: object
